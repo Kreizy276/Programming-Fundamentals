@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469EFFA1-A941-42F0-B3F4-F2CA4606ABA2}|13. Debugging\\13. Debugging.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\13. debugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469EFFA1-A941-42F0-B3F4-F2CA4606ABA2}|13. Debugging\\13. Debugging.csproj|solutionrelative:13. debugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B9E182-EF7C-4258-9CD4-08AF692E3A60}|12. EvenNumber\\12. EvenNumber.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\12. evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B9E182-EF7C-4258-9CD4-08AF692E3A60}|12. EvenNumber\\12. EvenNumber.csproj|solutionrelative:12. evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095BB14-1E87-469C-BA3A-CE1422EA0511}|11. MultiplicationTable2.0\\11. MultiplicationTable2.0.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\11. multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095BB14-1E87-469C-BA3A-CE1422EA0511}|11. MultiplicationTable2.0\\11. MultiplicationTable2.0.csproj|solutionrelative:11. multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D31807-A406-4B15-BE70-DD6DA1B0A18B}|10. MultiplicationTable\\10. MultiplicationTable.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\10. multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D31807-A406-4B15-BE70-DD6DA1B0A18B}|10. MultiplicationTable\\10. MultiplicationTable.csproj|solutionrelative:10. multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5B8602-2E0B-44FA-BA6C-22C03D71AAD4}|09. SumOfOddNumbers\\09. SumOfOddNumbers.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\09. sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5B8602-2E0B-44FA-BA6C-22C03D71AAD4}|09. SumOfOddNumbers\\09. SumOfOddNumbers.csproj|solutionrelative:09. sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0139E4F-A9F4-49EC-80C0-6D4FDFE34091}|08. DivisibleBy3\\08. DivisibleBy3.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\08. divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0139E4F-A9F4-49EC-80C0-6D4FDFE34091}|08. DivisibleBy3\\08. DivisibleBy3.csproj|solutionrelative:08. divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D0A506-A9C2-4F7F-A33A-9AF4F4BD1651}|07. TheatrePromotions\\07. TheatrePromotions.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\07. theatrepromotions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D0A506-A9C2-4F7F-A33A-9AF4F4BD1651}|07. TheatrePromotions\\07. TheatrePromotions.csproj|solutionrelative:07. theatrepromotions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90155337-D144-4DE8-91FD-8F3715A96057}|06. ForeignLanguages\\06. ForeignLanguages.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\06. foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90155337-D144-4DE8-91FD-8F3715A96057}|06. ForeignLanguages\\06. ForeignLanguages.csproj|solutionrelative:06. foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077FEC90-36BD-42D6-9E70-0A1C656C99BB}|05. MonthPrinter\\05. MonthPrinter.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\05. monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077FEC90-36BD-42D6-9E70-0A1C656C99BB}|05. MonthPrinter\\05. MonthPrinter.csproj|solutionrelative:05. monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BCF00D-3BAA-4938-8E2A-E49BF3F05371}|04. BackIn30Min\\04. BackIn30Min.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\04. backin30min\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BCF00D-3BAA-4938-8E2A-E49BF3F05371}|04. BackIn30Min\\04. BackIn30Min.csproj|solutionrelative:04. backin30min\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C434B7B-8770-4ACD-B727-7F82115A7B33}|03. PassedOrFailed\\03. PassedOrFailed.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\03. passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C434B7B-8770-4ACD-B727-7F82115A7B33}|03. PassedOrFailed\\03. PassedOrFailed.csproj|solutionrelative:03. passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA92E68-B5E0-4982-9770-5C803FCE2377}|02. Passed\\02. Passed.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\02. passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA92E68-B5E0-4982-9770-5C803FCE2377}|02. Passed\\02. Passed.csproj|solutionrelative:02. passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740A787D-48AE-4044-99B7-E0DF9D6F85DC}|01.StudentInformation\\01.StudentInformation.csproj|c:\\users\\krisb\\source\\repos\\labintroandbasicsyntax\\01.studentinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740A787D-48AE-4044-99B7-E0DF9D6F85DC}|01.StudentInformation\\01.StudentInformation.csproj|solutionrelative:01.studentinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\13. Debugging\\Program.cs",
+              "RelativeDocumentMoniker": "13. Debugging\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\13. Debugging\\Program.cs",
+              "RelativeToolTip": "13. Debugging\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:34:57.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\12. EvenNumber\\Program.cs",
+              "RelativeDocumentMoniker": "12. EvenNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\12. EvenNumber\\Program.cs",
+              "RelativeToolTip": "12. EvenNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:27:15.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\11. MultiplicationTable2.0\\Program.cs",
+              "RelativeDocumentMoniker": "11. MultiplicationTable2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\11. MultiplicationTable2.0\\Program.cs",
+              "RelativeToolTip": "11. MultiplicationTable2.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:16:42.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\10. MultiplicationTable\\Program.cs",
+              "RelativeDocumentMoniker": "10. MultiplicationTable\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\10. MultiplicationTable\\Program.cs",
+              "RelativeToolTip": "10. MultiplicationTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:12:23.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\09. SumOfOddNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "09. SumOfOddNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\09. SumOfOddNumbers\\Program.cs",
+              "RelativeToolTip": "09. SumOfOddNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:45:06.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\08. DivisibleBy3\\Program.cs",
+              "RelativeDocumentMoniker": "08. DivisibleBy3\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\08. DivisibleBy3\\Program.cs",
+              "RelativeToolTip": "08. DivisibleBy3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:41:04.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\07. TheatrePromotions\\Program.cs",
+              "RelativeDocumentMoniker": "07. TheatrePromotions\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\07. TheatrePromotions\\Program.cs",
+              "RelativeToolTip": "07. TheatrePromotions\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:23:07.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\06. ForeignLanguages\\Program.cs",
+              "RelativeDocumentMoniker": "06. ForeignLanguages\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\06. ForeignLanguages\\Program.cs",
+              "RelativeToolTip": "06. ForeignLanguages\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:17:42.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\05. MonthPrinter\\Program.cs",
+              "RelativeDocumentMoniker": "05. MonthPrinter\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\05. MonthPrinter\\Program.cs",
+              "RelativeToolTip": "05. MonthPrinter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:32:13.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\04. BackIn30Min\\Program.cs",
+              "RelativeDocumentMoniker": "04. BackIn30Min\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\04. BackIn30Min\\Program.cs",
+              "RelativeToolTip": "04. BackIn30Min\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:55:34.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\03. PassedOrFailed\\Program.cs",
+              "RelativeDocumentMoniker": "03. PassedOrFailed\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\03. PassedOrFailed\\Program.cs",
+              "RelativeToolTip": "03. PassedOrFailed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:54:32.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\02. Passed\\Program.cs",
+              "RelativeDocumentMoniker": "02. Passed\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\02. Passed\\Program.cs",
+              "RelativeToolTip": "02. Passed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:52:09.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\01.StudentInformation\\Program.cs",
+              "RelativeDocumentMoniker": "01.StudentInformation\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\LabIntroandBasicSyntax\\01.StudentInformation\\Program.cs",
+              "RelativeToolTip": "01.StudentInformation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:49:06.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

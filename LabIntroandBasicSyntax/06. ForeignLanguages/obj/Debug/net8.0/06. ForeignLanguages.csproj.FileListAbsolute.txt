@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\bin\Debug\net8.0\06. ForeignLanguages.exe
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\bin\Debug\net8.0\06. ForeignLanguages.deps.json
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\bin\Debug\net8.0\06. ForeignLanguages.runtimeconfig.json
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\bin\Debug\net8.0\06. ForeignLanguages.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\bin\Debug\net8.0\06. ForeignLanguages.pdb
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\obj\Debug\net8.0\06. ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\obj\Debug\net8.0\06. ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\obj\Debug\net8.0\06. ForeignLanguages.AssemblyInfo.cs
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\obj\Debug\net8.0\06. ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\obj\Debug\net8.0\06. ForeignLanguages.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\obj\Debug\net8.0\refint\06. ForeignLanguages.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\obj\Debug\net8.0\06. ForeignLanguages.pdb
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\obj\Debug\net8.0\06. ForeignLanguages.genruntimeconfig.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\06. ForeignLanguages\obj\Debug\net8.0\ref\06. ForeignLanguages.dll

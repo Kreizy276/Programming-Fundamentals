@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\bin\Debug\net8.0\13. Debugging.exe
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\bin\Debug\net8.0\13. Debugging.deps.json
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\bin\Debug\net8.0\13. Debugging.runtimeconfig.json
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\bin\Debug\net8.0\13. Debugging.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\bin\Debug\net8.0\13. Debugging.pdb
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\obj\Debug\net8.0\13. Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\obj\Debug\net8.0\13. Debugging.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\obj\Debug\net8.0\13. Debugging.AssemblyInfo.cs
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\obj\Debug\net8.0\13. Debugging.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\obj\Debug\net8.0\13. Debugging.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\obj\Debug\net8.0\refint\13. Debugging.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\obj\Debug\net8.0\13. Debugging.pdb
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\obj\Debug\net8.0\13. Debugging.genruntimeconfig.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\13. Debugging\obj\Debug\net8.0\ref\13. Debugging.dll

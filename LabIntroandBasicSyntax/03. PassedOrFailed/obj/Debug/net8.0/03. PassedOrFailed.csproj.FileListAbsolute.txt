@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\bin\Debug\net8.0\03. PassedOrFailed.exe
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\bin\Debug\net8.0\03. PassedOrFailed.deps.json
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\bin\Debug\net8.0\03. PassedOrFailed.runtimeconfig.json
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\bin\Debug\net8.0\03. PassedOrFailed.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\bin\Debug\net8.0\03. PassedOrFailed.pdb
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\obj\Debug\net8.0\03. PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\obj\Debug\net8.0\03. PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\obj\Debug\net8.0\03. PassedOrFailed.AssemblyInfo.cs
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\obj\Debug\net8.0\03. PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\obj\Debug\net8.0\03. PassedOrFailed.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\obj\Debug\net8.0\refint\03. PassedOrFailed.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\obj\Debug\net8.0\03. PassedOrFailed.pdb
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\obj\Debug\net8.0\03. PassedOrFailed.genruntimeconfig.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\03. PassedOrFailed\obj\Debug\net8.0\ref\03. PassedOrFailed.dll

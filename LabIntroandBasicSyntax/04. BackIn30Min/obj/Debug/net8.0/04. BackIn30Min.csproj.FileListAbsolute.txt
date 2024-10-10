@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\bin\Debug\net8.0\04. BackIn30Min.exe
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\bin\Debug\net8.0\04. BackIn30Min.deps.json
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\bin\Debug\net8.0\04. BackIn30Min.runtimeconfig.json
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\bin\Debug\net8.0\04. BackIn30Min.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\bin\Debug\net8.0\04. BackIn30Min.pdb
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\obj\Debug\net8.0\04. BackIn30Min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\obj\Debug\net8.0\04. BackIn30Min.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\obj\Debug\net8.0\04. BackIn30Min.AssemblyInfo.cs
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\obj\Debug\net8.0\04. BackIn30Min.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\obj\Debug\net8.0\04. BackIn30Min.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\obj\Debug\net8.0\refint\04. BackIn30Min.dll
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\obj\Debug\net8.0\04. BackIn30Min.pdb
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\obj\Debug\net8.0\04. BackIn30Min.genruntimeconfig.cache
+C:\Users\krisb\source\repos\LabIntroandBasicSyntax\04. BackIn30Min\obj\Debug\net8.0\ref\04. BackIn30Min.dll
