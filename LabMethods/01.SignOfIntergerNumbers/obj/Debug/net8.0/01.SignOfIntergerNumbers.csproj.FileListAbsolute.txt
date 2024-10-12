@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\bin\Debug\net8.0\01.SignOfIntergerNumbers.exe
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\bin\Debug\net8.0\01.SignOfIntergerNumbers.deps.json
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\bin\Debug\net8.0\01.SignOfIntergerNumbers.runtimeconfig.json
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\bin\Debug\net8.0\01.SignOfIntergerNumbers.dll
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\bin\Debug\net8.0\01.SignOfIntergerNumbers.pdb
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\obj\Debug\net8.0\01.SignOfIntergerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\obj\Debug\net8.0\01.SignOfIntergerNumbers.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\obj\Debug\net8.0\01.SignOfIntergerNumbers.AssemblyInfo.cs
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\obj\Debug\net8.0\01.SignOfIntergerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\obj\Debug\net8.0\01.SignOfIntergerNumbers.dll
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\obj\Debug\net8.0\refint\01.SignOfIntergerNumbers.dll
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\obj\Debug\net8.0\01.SignOfIntergerNumbers.pdb
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\obj\Debug\net8.0\01.SignOfIntergerNumbers.genruntimeconfig.cache
+C:\Users\krisb\source\repos\LabMethods\01.SignOfIntergerNumbers\obj\Debug\net8.0\ref\01.SignOfIntergerNumbers.dll

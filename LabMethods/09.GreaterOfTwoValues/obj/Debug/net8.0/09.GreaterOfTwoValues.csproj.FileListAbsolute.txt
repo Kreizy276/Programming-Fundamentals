@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\bin\Debug\net8.0\09.GreaterOfTwoValues.exe
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\bin\Debug\net8.0\09.GreaterOfTwoValues.deps.json
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\bin\Debug\net8.0\09.GreaterOfTwoValues.runtimeconfig.json
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\bin\Debug\net8.0\09.GreaterOfTwoValues.dll
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\bin\Debug\net8.0\09.GreaterOfTwoValues.pdb
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.dll
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\obj\Debug\net8.0\refint\09.GreaterOfTwoValues.dll
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.pdb
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.genruntimeconfig.cache
+C:\Users\krisb\source\repos\LabMethods\09.GreaterOfTwoValues\obj\Debug\net8.0\ref\09.GreaterOfTwoValues.dll
