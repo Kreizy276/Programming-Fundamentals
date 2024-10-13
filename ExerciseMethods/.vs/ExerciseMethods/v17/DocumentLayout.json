@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED92442-8D04-44C8-8C38-1527500C1601}|10. TopNumber\\10. TopNumber.csproj|c:\\users\\krisb\\source\\repos\\exercisemethods\\10. topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED92442-8D04-44C8-8C38-1527500C1601}|10. TopNumber\\10. TopNumber.csproj|solutionrelative:10. topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B05F4D3-A6D4-4F83-BE08-A4796C299D2D}|09. Palindrome Integers\\09. Palindrome Integers.csproj|c:\\users\\krisb\\source\\repos\\exercisemethods\\09. palindrome integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B05F4D3-A6D4-4F83-BE08-A4796C299D2D}|09. Palindrome Integers\\09. Palindrome Integers.csproj|solutionrelative:09. palindrome integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55B8706-8EEE-4FDB-864F-1C196FB9D81D}|08. FactorialDivision\\08. FactorialDivision.csproj|c:\\users\\krisb\\source\\repos\\exercisemethods\\08. factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55B8706-8EEE-4FDB-864F-1C196FB9D81D}|08. FactorialDivision\\08. FactorialDivision.csproj|solutionrelative:08. factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175E0877-A97D-48EA-B893-D64EBCAADB77}|05. AddAndSubtract\\05. AddAndSubtract.csproj|c:\\users\\krisb\\source\\repos\\exercisemethods\\05. addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175E0877-A97D-48EA-B893-D64EBCAADB77}|05. AddAndSubtract\\05. AddAndSubtract.csproj|solutionrelative:05. addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A269BC63-964F-4304-9351-EA69F7E0BE57}|03. CharactersInRange\\03. CharactersInRange.csproj|c:\\users\\krisb\\source\\repos\\exercisemethods\\03. charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A269BC63-964F-4304-9351-EA69F7E0BE57}|03. CharactersInRange\\03. CharactersInRange.csproj|solutionrelative:03. charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB48382B-DE76-4360-BCB7-D6D0861F7CCC}|01. SmallestOfTheThreeNumbers\\01. SmallestOfTheThreeNumbers.csproj|c:\\users\\krisb\\source\\repos\\exercisemethods\\01. smallestofthethreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB48382B-DE76-4360-BCB7-D6D0861F7CCC}|01. SmallestOfTheThreeNumbers\\01. SmallestOfTheThreeNumbers.csproj|solutionrelative:01. smallestofthethreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70998226-F314-406C-B480-1B29F40D7E61}|02. VowelsCount\\02. VowelsCount.csproj|c:\\users\\krisb\\source\\repos\\exercisemethods\\02. vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70998226-F314-406C-B480-1B29F40D7E61}|02. VowelsCount\\02. VowelsCount.csproj|solutionrelative:02. vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2599DA1-317B-40B4-8E28-DEB146864FA5}|07. NxNMatrix\\07. NxNMatrix.csproj|c:\\users\\krisb\\source\\repos\\exercisemethods\\07. nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2599DA1-317B-40B4-8E28-DEB146864FA5}|07. NxNMatrix\\07. NxNMatrix.csproj|solutionrelative:07. nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA50C32-7B53-407B-97D5-3EB35163BDE3}|06. MiddleCharacters\\06. MiddleCharacters.csproj|c:\\users\\krisb\\source\\repos\\exercisemethods\\06. middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA50C32-7B53-407B-97D5-3EB35163BDE3}|06. MiddleCharacters\\06. MiddleCharacters.csproj|solutionrelative:06. middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D64894-D10F-4CA5-A879-B336E241C2CC}|04. PasswordValidator\\04. PasswordValidator.csproj|c:\\users\\krisb\\source\\repos\\exercisemethods\\04. passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D64894-D10F-4CA5-A879-B336E241C2CC}|04. PasswordValidator\\04. PasswordValidator.csproj|solutionrelative:04. passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\10. TopNumber\\Program.cs",
+              "RelativeDocumentMoniker": "10. TopNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\10. TopNumber\\Program.cs*",
+              "RelativeToolTip": "10. TopNumber\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:38:38.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\09. Palindrome Integers\\Program.cs",
+              "RelativeDocumentMoniker": "09. Palindrome Integers\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\09. Palindrome Integers\\Program.cs",
+              "RelativeToolTip": "09. Palindrome Integers\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:46:53.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\08. FactorialDivision\\Program.cs",
+              "RelativeDocumentMoniker": "08. FactorialDivision\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\08. FactorialDivision\\Program.cs",
+              "RelativeToolTip": "08. FactorialDivision\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:18:05.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\07. NxNMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "07. NxNMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\07. NxNMatrix\\Program.cs",
+              "RelativeToolTip": "07. NxNMatrix\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:12:16.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\06. MiddleCharacters\\Program.cs",
+              "RelativeDocumentMoniker": "06. MiddleCharacters\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\06. MiddleCharacters\\Program.cs",
+              "RelativeToolTip": "06. MiddleCharacters\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:04:13.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\05. AddAndSubtract\\Program.cs",
+              "RelativeDocumentMoniker": "05. AddAndSubtract\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\05. AddAndSubtract\\Program.cs",
+              "RelativeToolTip": "05. AddAndSubtract\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:56:06.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\04. PasswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "04. PasswordValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\04. PasswordValidator\\Program.cs",
+              "RelativeToolTip": "04. PasswordValidator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:13:34.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\03. CharactersInRange\\Program.cs",
+              "RelativeDocumentMoniker": "03. CharactersInRange\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\03. CharactersInRange\\Program.cs",
+              "RelativeToolTip": "03. CharactersInRange\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:51:52.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\02. VowelsCount\\Program.cs",
+              "RelativeDocumentMoniker": "02. VowelsCount\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\02. VowelsCount\\Program.cs",
+              "RelativeToolTip": "02. VowelsCount\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:36:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\01. SmallestOfTheThreeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. SmallestOfTheThreeNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\source\\repos\\ExerciseMethods\\01. SmallestOfTheThreeNumbers\\Program.cs",
+              "RelativeToolTip": "01. SmallestOfTheThreeNumbers\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:11:08.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

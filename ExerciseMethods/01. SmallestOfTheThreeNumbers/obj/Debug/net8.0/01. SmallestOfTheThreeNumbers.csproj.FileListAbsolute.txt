@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\bin\Debug\net8.0\01. SmallestOfTheThreeNumbers.exe
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\bin\Debug\net8.0\01. SmallestOfTheThreeNumbers.deps.json
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\bin\Debug\net8.0\01. SmallestOfTheThreeNumbers.runtimeconfig.json
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\bin\Debug\net8.0\01. SmallestOfTheThreeNumbers.dll
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\bin\Debug\net8.0\01. SmallestOfTheThreeNumbers.pdb
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\obj\Debug\net8.0\01. SmallestOfTheThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\obj\Debug\net8.0\01. SmallestOfTheThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\obj\Debug\net8.0\01. SmallestOfTheThreeNumbers.AssemblyInfo.cs
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\obj\Debug\net8.0\01. SmallestOfTheThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\obj\Debug\net8.0\01. SmallestOfTheThreeNumbers.dll
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\obj\Debug\net8.0\refint\01. SmallestOfTheThreeNumbers.dll
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\obj\Debug\net8.0\01. SmallestOfTheThreeNumbers.pdb
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\obj\Debug\net8.0\01. SmallestOfTheThreeNumbers.genruntimeconfig.cache
+C:\Users\krisb\source\repos\ExerciseMethods\01. SmallestOfTheThreeNumbers\obj\Debug\net8.0\ref\01. SmallestOfTheThreeNumbers.dll
