@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE1A15F-C6E9-4A82-B488-5DA98003793B}|07. ListManipulationAdvanced\\07. ListManipulationAdvanced.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\lablists\\07. listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE1A15F-C6E9-4A82-B488-5DA98003793B}|07. ListManipulationAdvanced\\07. ListManipulationAdvanced.csproj|solutionrelative:07. listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F043210F-6A1A-4C66-9F1F-B1B4053D99C5}|06. ListManipulationBasics\\06. ListManipulationBasics.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\lablists\\06. listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F043210F-6A1A-4C66-9F1F-B1B4053D99C5}|06. ListManipulationBasics\\06. ListManipulationBasics.csproj|solutionrelative:06. listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC31B9D-5839-492B-AF70-238638A80392}|05. RemoveNegativesAndReverse\\05. RemoveNegativesAndReverse.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\lablists\\05. removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC31B9D-5839-492B-AF70-238638A80392}|05. RemoveNegativesAndReverse\\05. RemoveNegativesAndReverse.csproj|solutionrelative:05. removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A577478C-3786-4520-B96C-A4A07621A2A1}|03. MergingLists\\03. MergingLists.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\lablists\\03. merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A577478C-3786-4520-B96C-A4A07621A2A1}|03. MergingLists\\03. MergingLists.csproj|solutionrelative:03. merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0547A7C-BBBD-4C6A-8CAA-7E04C3A3ECD1}|04. ListOfProducts\\04. ListOfProducts.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\lablists\\04. listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0547A7C-BBBD-4C6A-8CAA-7E04C3A3ECD1}|04. ListOfProducts\\04. ListOfProducts.csproj|solutionrelative:04. listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ED93F5-D49F-46ED-9D45-869B106901ED}|02. Gauss\u0027 Trick\\02. Gauss\u0027 Trick.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\lablists\\02. gauss\u0027 trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4ED93F5-D49F-46ED-9D45-869B106901ED}|02. Gauss\u0027 Trick\\02. Gauss\u0027 Trick.csproj|solutionrelative:02. gauss\u0027 trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18703F00-4225-4CAF-A808-51FDFF3DFCB5}|01. SumAdjacentEqualNumbers\\01. SumAdjacentEqualNumbers.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\lablists\\01. sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18703F00-4225-4CAF-A808-51FDFF3DFCB5}|01. SumAdjacentEqualNumbers\\01. SumAdjacentEqualNumbers.csproj|solutionrelative:01. sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\07. ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "07. ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\07. ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "07. ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:14:14.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\06. ListManipulationBasics\\Program.cs",
+              "RelativeDocumentMoniker": "06. ListManipulationBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\06. ListManipulationBasics\\Program.cs",
+              "RelativeToolTip": "06. ListManipulationBasics\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:38:10.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\05. RemoveNegativesAndReverse\\Program.cs",
+              "RelativeDocumentMoniker": "05. RemoveNegativesAndReverse\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\05. RemoveNegativesAndReverse\\Program.cs",
+              "RelativeToolTip": "05. RemoveNegativesAndReverse\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvw4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:11:17.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\04. ListOfProducts\\Program.cs",
+              "RelativeDocumentMoniker": "04. ListOfProducts\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\04. ListOfProducts\\Program.cs",
+              "RelativeToolTip": "04. ListOfProducts\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:58:40.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\03. MergingLists\\Program.cs",
+              "RelativeDocumentMoniker": "03. MergingLists\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\03. MergingLists\\Program.cs",
+              "RelativeToolTip": "03. MergingLists\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:57:32.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\02. Gauss\u0027 Trick\\Program.cs",
+              "RelativeDocumentMoniker": "02. Gauss\u0027 Trick\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\02. Gauss\u0027 Trick\\Program.cs",
+              "RelativeToolTip": "02. Gauss\u0027 Trick\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:46:31.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\01. SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. SumAdjacentEqualNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\LabLists\\01. SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeToolTip": "01. SumAdjacentEqualNumbers\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:26:18.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

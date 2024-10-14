@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\bin\Debug\net8.0\02. Gauss' Trick.exe
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\bin\Debug\net8.0\02. Gauss' Trick.deps.json
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\bin\Debug\net8.0\02. Gauss' Trick.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\bin\Debug\net8.0\02. Gauss' Trick.dll
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\bin\Debug\net8.0\02. Gauss' Trick.pdb
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.sourcelink.json
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.dll
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\obj\Debug\net8.0\refint\02. Gauss' Trick.dll
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.pdb
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\obj\Debug\net8.0\02. Gauss' Trick.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\Programming Fundamentals\Programming-Fundamentals\LabLists\02. Gauss' Trick\obj\Debug\net8.0\ref\02. Gauss' Trick.dll
