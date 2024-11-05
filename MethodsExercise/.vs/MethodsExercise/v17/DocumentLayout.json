@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\MethodsExercise\\MethodsExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3459DF6-F3F6-4928-BD96-1527C165461F}|04. PasswordValidator\\04. PasswordValidator.csproj|c:\\users\\krisb\\desktop\\exercises\\methodsexercise\\methodsexercise\\04. passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3459DF6-F3F6-4928-BD96-1527C165461F}|04. PasswordValidator\\04. PasswordValidator.csproj|solutionrelative:04. passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7389627-AF05-4185-8F9C-299067E6339D}|03. CharactersInRange\\03. CharactersInRange.csproj|c:\\users\\krisb\\desktop\\exercises\\methodsexercise\\methodsexercise\\03. charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7389627-AF05-4185-8F9C-299067E6339D}|03. CharactersInRange\\03. CharactersInRange.csproj|solutionrelative:03. charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BD7620-643B-41F7-B272-4F0302C0345E}|11. ArrayManipulator\\11. ArrayManipulator.csproj|c:\\users\\krisb\\desktop\\exercises\\methodsexercise\\methodsexercise\\11. arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BD7620-643B-41F7-B272-4F0302C0345E}|11. ArrayManipulator\\11. ArrayManipulator.csproj|solutionrelative:11. arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEED4FA-1E41-4EB3-B8D7-9DA948CF4732}|06. MiddleCharacters\\06. MiddleCharacters.csproj|c:\\users\\krisb\\desktop\\exercises\\methodsexercise\\methodsexercise\\06. middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EEED4FA-1E41-4EB3-B8D7-9DA948CF4732}|06. MiddleCharacters\\06. MiddleCharacters.csproj|solutionrelative:06. middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\MethodsExercise\\MethodsExercise\\11. ArrayManipulator\\Program.cs",
+              "RelativeDocumentMoniker": "11. ArrayManipulator\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\MethodsExercise\\MethodsExercise\\11. ArrayManipulator\\Program.cs*",
+              "RelativeToolTip": "11. ArrayManipulator\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:33:19.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\MethodsExercise\\MethodsExercise\\03. CharactersInRange\\Program.cs",
+              "RelativeDocumentMoniker": "03. CharactersInRange\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\MethodsExercise\\MethodsExercise\\03. CharactersInRange\\Program.cs",
+              "RelativeToolTip": "03. CharactersInRange\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:15:19.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\MethodsExercise\\MethodsExercise\\04. PasswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "04. PasswordValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\MethodsExercise\\MethodsExercise\\04. PasswordValidator\\Program.cs",
+              "RelativeToolTip": "04. PasswordValidator\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:27:56.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\MethodsExercise\\MethodsExercise\\06. MiddleCharacters\\Program.cs",
+              "RelativeDocumentMoniker": "06. MiddleCharacters\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\MethodsExercise\\MethodsExercise\\06. MiddleCharacters\\Program.cs",
+              "RelativeToolTip": "06. MiddleCharacters\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:12:13.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
