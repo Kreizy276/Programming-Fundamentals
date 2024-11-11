@@ -9,44 +9,43 @@ namespace _03._HouseParty
     {
         static void Main(string[] args)
         {
-            List<string> names = new();
+            int n = int.Parse(Console.ReadLine()); 
+            List<string> guests = new List<string>(); 
 
-            int n = int.Parse(Console.ReadLine());
-            string command = Console.ReadLine();
-
-            for(int i = 1; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
-                if (command == $"{command} is going!")
+                string command = Console.ReadLine();
+                string[] parts = command.Split(); 
+                string name = parts[0];
+
+                if (command.Contains("is going!"))
                 {
-                    AddToList(names, command);
+                    if (guests.Contains(name))
+                    {
+                        Console.WriteLine($"{name} is already in the list!");
+                    }
+                    else
+                    {
+                        guests.Add(name);
+                    }
                 }
-                if(command == $"{command} is not going!")
+                else if (command.Contains("is not going!"))
                 {
-                    names.Remove(command);
+                    if (guests.Contains(name))
+                    {
+                        guests.Remove(name);
+                    }
+                    else
+                    {
+                        Console.WriteLine($"{name} is not in the list!");
+                    }
                 }
             }
-        }
 
-        static void AddToList(List<string> names, string command)
-        {
-
-        }
-
-        static void CheckList(List<string> names, string command)
-        {
-            string check = "";
-            for(int i = 0; i < names.Count; i++)
+            foreach (string guest in guests)
             {
-                if(names[i] == command)
-                {
-                    check = names[i];
-                }
+                Console.WriteLine(guest);
             }
-        }
-
-        static void RemoveFromList(List<string> names, string command)
-        {
-            
         }
     }
 }

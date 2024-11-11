@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE752739-40A7-48DB-AA0B-5F0FF160911C}|07. NxNMatrix\\07. NxNMatrix.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\listsexercise\\07. nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE752739-40A7-48DB-AA0B-5F0FF160911C}|07. NxNMatrix\\07. NxNMatrix.csproj|solutionrelative:07. nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B0B4938-D27D-4593-9285-10EE688D19B0}|07. AppendArrays\\07. AppendArrays.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\listsexercise\\07. appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0B4938-D27D-4593-9285-10EE688D19B0}|07. AppendArrays\\07. AppendArrays.csproj|solutionrelative:07. appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C096CB1E-65F2-4758-92D9-9AD3D0070D60}|10.TopNumber\\10.TopNumber.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\listsexercise\\10.topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C096CB1E-65F2-4758-92D9-9AD3D0070D60}|10.TopNumber\\10.TopNumber.csproj|solutionrelative:10.topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A06B60F8-F1BA-4A30-94B5-984C06D0102D}|01. Train\\01. Train.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\listsexercise\\01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A06B60F8-F1BA-4A30-94B5-984C06D0102D}|01. Train\\01. Train.csproj|solutionrelative:01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3606AB5D-055B-45EE-B05D-A829BB79FAB2}|04. ListOperations\\04. ListOperations.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\listsexercise\\04. listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3606AB5D-055B-45EE-B05D-A829BB79FAB2}|04. ListOperations\\04. ListOperations.csproj|solutionrelative:04. listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{102244D4-2540-4176-A503-7AE1C6149136}|06. CardsGame\\06. CardsGame.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\listsexercise\\06. cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102244D4-2540-4176-A503-7AE1C6149136}|06. CardsGame\\06. CardsGame.csproj|solutionrelative:06. cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97CFA23E-AFBD-4DBD-B549-D4699DDE0DC3}|03. HouseParty\\03. HouseParty.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\listsexercise\\03. houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97CFA23E-AFBD-4DBD-B549-D4699DDE0DC3}|03. HouseParty\\03. HouseParty.csproj|solutionrelative:03. houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{767380C7-B2CE-4EDB-AB1F-5F389DE27631}|02. ChangeList\\02. ChangeList.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\listsexercise\\02. changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{767380C7-B2CE-4EDB-AB1F-5F389DE27631}|02. ChangeList\\02. ChangeList.csproj|solutionrelative:02. changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,75 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\07. NxNMatrix\\Program.cs",
-              "RelativeDocumentMoniker": "07. NxNMatrix\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\07. NxNMatrix\\Program.cs*",
-              "RelativeToolTip": "07. NxNMatrix\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\07. AppendArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07. AppendArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\07. AppendArrays\\Program.cs*",
+              "RelativeToolTip": "07. AppendArrays\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T17:01:46.649Z",
+              "WhenOpened": "2024-11-11T15:18:55.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\03. HouseParty\\Program.cs",
+              "RelativeDocumentMoniker": "03. HouseParty\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\03. HouseParty\\Program.cs",
+              "RelativeToolTip": "03. HouseParty\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:03:51.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\10.TopNumber\\Program.cs",
-              "RelativeDocumentMoniker": "10.TopNumber\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\10.TopNumber\\Program.cs",
-              "RelativeToolTip": "10.TopNumber\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDIAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\06. CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "06. CardsGame\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\06. CardsGame\\Program.cs",
+              "RelativeToolTip": "06. CardsGame\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T16:04:05.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\04. ListOperations\\Program.cs",
-              "RelativeDocumentMoniker": "04. ListOperations\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\04. ListOperations\\Program.cs",
-              "RelativeToolTip": "04. ListOperations\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T13:22:10.093Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\03. HouseParty\\Program.cs",
-              "RelativeDocumentMoniker": "03. HouseParty\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\03. HouseParty\\Program.cs",
-              "RelativeToolTip": "03. HouseParty\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:33:50.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\02. ChangeList\\Program.cs",
-              "RelativeDocumentMoniker": "02. ChangeList\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\02. ChangeList\\Program.cs",
-              "RelativeToolTip": "02. ChangeList\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:16:36.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\01. Train\\Program.cs",
-              "RelativeDocumentMoniker": "01. Train\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ListsExercise\\01. Train\\Program.cs",
-              "RelativeToolTip": "01. Train\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:29:37.41Z",
+              "WhenOpened": "2024-11-06T18:24:53.961Z",
               "EditorCaption": ""
             }
           ]
