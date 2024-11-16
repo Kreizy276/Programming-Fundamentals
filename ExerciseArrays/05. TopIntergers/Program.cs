@@ -1,30 +1,31 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace _05._TopIntergers
 {
-    internal class Program
+   internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-            int[] extended = new int[arr.Length + 1];
+            List<int> topIntegers = new();
 
-            for(int i = 0; i < extended.Length; i++)
+            int maxRight = int.MinValue;
+
+            for (int i = numbers.Length - 1; i >= 0; i--)
             {
-                for(int j = 0; j < extended.Length; j++)
+                if (numbers[i] > maxRight)
                 {
-                    if(arr[i] > arr[j + 1])
-                    {
-
-                    }
-                    else
-                    {
-                        break;
-                    }
+                    topIntegers.Add(numbers[i]);
+                    maxRight = numbers[i];
                 }
             }
+
+            topIntegers.Reverse();
+
+            Console.WriteLine(string.Join(" ", topIntegers));
         }
     }
 }

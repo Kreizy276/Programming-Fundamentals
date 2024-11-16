@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF406D93-DF6C-4A65-AFAF-730559B8E6D4}|07. VehicleCatalogue\\07. VehicleCatalogue.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\07. vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF406D93-DF6C-4A65-AFAF-730559B8E6D4}|07. VehicleCatalogue\\07. VehicleCatalogue.csproj|solutionrelative:07. vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3134E1C3-7496-4CF6-8A87-3E9270475A5C}|06. StoreBoxes\\06. StoreBoxes.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\06. storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3134E1C3-7496-4CF6-8A87-3E9270475A5C}|06. StoreBoxes\\06. StoreBoxes.csproj|solutionrelative:06. storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA786941-40D4-4419-8875-52E4AC8E5323}|05. Student2.0\\05. Student2.0.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\05. student2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA786941-40D4-4419-8875-52E4AC8E5323}|05. Student2.0\\05. Student2.0.csproj|solutionrelative:05. student2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1675A67F-EB6B-49DC-95B2-E36510A39DA2}|04. Students\\04. Students.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1675A67F-EB6B-49DC-95B2-E36510A39DA2}|04. Students\\04. Students.csproj|solutionrelative:04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF406D93-DF6C-4A65-AFAF-730559B8E6D4}|07. VehicleCatalogue\\07. VehicleCatalogue.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\07. vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF406D93-DF6C-4A65-AFAF-730559B8E6D4}|07. VehicleCatalogue\\07. VehicleCatalogue.csproj|solutionrelative:07. vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3134E1C3-7496-4CF6-8A87-3E9270475A5C}|06. StoreBoxes\\06. StoreBoxes.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\06. storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3134E1C3-7496-4CF6-8A87-3E9270475A5C}|06. StoreBoxes\\06. StoreBoxes.csproj|solutionrelative:06. storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{322FBF5B-3721-4EE7-8E7A-2E3247E0FA4B}|03. Songs\\03. Songs.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\03. songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\07. VehicleCatalogue\\Program.cs",
               "RelativeDocumentMoniker": "07. VehicleCatalogue\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\07. VehicleCatalogue\\Program.cs*",
-              "RelativeToolTip": "07. VehicleCatalogue\\Program.cs*",
-              "ViewState": "AgIAADcAAAAAAAAAAAAIwEIAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\07. VehicleCatalogue\\Program.cs",
+              "RelativeToolTip": "07. VehicleCatalogue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T16:26:06.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\06. StoreBoxes\\Program.cs",
               "RelativeDocumentMoniker": "06. StoreBoxes\\Program.cs",
@@ -68,20 +68,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\05. Student2.0\\Program.cs",
               "RelativeDocumentMoniker": "05. Student2.0\\Program.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\05. Student2.0\\Program.cs",
               "RelativeToolTip": "05. Student2.0\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAkwCUAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T15:32:01.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\04. Students\\Program.cs",
               "RelativeDocumentMoniker": "04. Students\\Program.cs",

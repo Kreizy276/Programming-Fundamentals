@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB112CB6-0827-45BF-9138-64355D76D8CE}|06. EqualSums\\06. EqualSums.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\exercisearrays\\06. equalsums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB112CB6-0827-45BF-9138-64355D76D8CE}|06. EqualSums\\06. EqualSums.csproj|solutionrelative:06. equalsums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62BF8E0A-86C9-4B94-BAA2-8BA8192ECE56}|05. TopIntergers\\05. TopIntergers.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\exercisearrays\\05. topintergers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62BF8E0A-86C9-4B94-BAA2-8BA8192ECE56}|05. TopIntergers\\05. TopIntergers.csproj|solutionrelative:05. topintergers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B677B09-38E0-471B-B470-90BFA9E1C06D}|04. ArrayRotation\\04. ArrayRotation.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\exercisearrays\\04. arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B677B09-38E0-471B-B470-90BFA9E1C06D}|04. ArrayRotation\\04. ArrayRotation.csproj|solutionrelative:04. arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62BF8E0A-86C9-4B94-BAA2-8BA8192ECE56}|05. TopIntergers\\05. TopIntergers.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\exercisearrays\\05. topintergers\\05. topintergers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{62BF8E0A-86C9-4B94-BAA2-8BA8192ECE56}|05. TopIntergers\\05. TopIntergers.csproj|solutionrelative:05. topintergers\\05. topintergers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26ED2061-F826-49CF-B842-3CADE0D93C57}|03. Zig-ZagArrays\\03. Zig-ZagArrays.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\exercisearrays\\03. zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B0ACD6A-3CFD-4E74-82B6-35F7DE0BA6BF}|01. Train\\01. Train.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\exercisearrays\\01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0ACD6A-3CFD-4E74-82B6-35F7DE0BA6BF}|01. Train\\01. Train.csproj|solutionrelative:01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB112CB6-0827-45BF-9138-64355D76D8CE}|06. EqualSums\\06. EqualSums.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\exercisearrays\\06. equalsums\\06. equalsums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB112CB6-0827-45BF-9138-64355D76D8CE}|06. EqualSums\\06. EqualSums.csproj|solutionrelative:06. equalsums\\06. equalsums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BF8E0A-86C9-4B94-BAA2-8BA8192ECE56}|05. TopIntergers\\05. TopIntergers.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\exercisearrays\\05. topintergers\\05. topintergers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62BF8E0A-86C9-4B94-BAA2-8BA8192ECE56}|05. TopIntergers\\05. TopIntergers.csproj|solutionrelative:05. topintergers\\05. topintergers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,39 +46,63 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "05. TopIntergers",
+              "DocumentIndex": 6,
+              "Title": "06. EqualSums.csproj",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\06. EqualSums\\06. EqualSums.csproj",
+              "RelativeDocumentMoniker": "06. EqualSums\\06. EqualSums.csproj",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\06. EqualSums\\06. EqualSums.csproj",
+              "RelativeToolTip": "06. EqualSums\\06. EqualSums.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T15:05:31.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\06. EqualSums\\Program.cs",
+              "RelativeDocumentMoniker": "06. EqualSums\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\06. EqualSums\\Program.cs",
+              "RelativeToolTip": "06. EqualSums\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:05:26.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "05. TopIntergers.csproj",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\05. TopIntergers\\05. TopIntergers.csproj",
               "RelativeDocumentMoniker": "05. TopIntergers\\05. TopIntergers.csproj",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\05. TopIntergers\\05. TopIntergers.csproj",
               "RelativeToolTip": "05. TopIntergers\\05. TopIntergers.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T14:18:46.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T14:18:46.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\05. TopIntergers\\Program.cs",
               "RelativeDocumentMoniker": "05. TopIntergers\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\05. TopIntergers\\Program.cs*",
-              "RelativeToolTip": "05. TopIntergers\\Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA0wA8AAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\05. TopIntergers\\Program.cs",
+              "RelativeToolTip": "05. TopIntergers\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T14:18:43.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\04. ArrayRotation\\Program.cs",
               "RelativeDocumentMoniker": "04. ArrayRotation\\Program.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\04. ArrayRotation\\Program.cs",
               "RelativeToolTip": "04. ArrayRotation\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAvwAwAAABmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T10:48:30.808Z",
               "EditorCaption": ""
@@ -96,7 +128,7 @@
               "RelativeDocumentMoniker": "02. CommonElements\\Program.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ExerciseArrays\\02. CommonElements\\Program.cs",
               "RelativeToolTip": "02. CommonElements\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T10:14:10.978Z",
               "EditorCaption": ""
