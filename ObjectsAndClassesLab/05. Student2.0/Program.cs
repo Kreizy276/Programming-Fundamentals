@@ -20,23 +20,29 @@ namespace _05._Student2._0
                 int age = int.Parse(data[2]);
                 string homeTown = data[3];
 
-                Students list = new()
+                if (IsStudentExisting(students, firstName, lastName))
                 {
-                    FirstName = firstName,
-                    LastName = lastName,
-                    Age = age,
-                    HomeTown = homeTown,
-                };
-                students.Add(list);
-
-                command = Console.ReadLine();
+                    Students existingStudent = GetStudent(students, firstName, lastName);
+                    existingStudent.Age = age;
+                    existingStudent.HomeTown = homeTown;
+                }
+                else
+                {
+                    Students list = new()
+                    {
+                        FirstName = firstName,
+                        LastName = lastName,
+                        Age = age,
+                        HomeTown = homeTown,
+                    };
+                    students.Add(list);
+                }
+                command = Console.ReadLine();                
             }
 
             string town = Console.ReadLine();
             foreach (Students student in students)
             {
-                if(IsStudentExisting(students, firstName, ))
-
                 if (town == student.HomeTown)
                 {
                     Console.WriteLine($"{student.FirstName} {student.LastName} is {student.Age} years old.");
@@ -46,29 +52,12 @@ namespace _05._Student2._0
 
         static Students GetStudent(List<Students> students, string firstName, string lastName)
         {
-            Students existingStudent = null;
-
-            foreach (Students student in students)
-            {
-                if(student.FirstName == firstName && student.LastName == lastName)
-                {
-                    existingStudent = student;
-                }
-            }
-
-            return existingStudent;
+            return students.Find(student => student.FirstName == firstName && student.LastName == lastName);
         }
 
         static bool IsStudentExisting(List<Students> students, string firstName, string lastName)
         {
-            foreach(Students student in students)
-            {
-                if(firstName == student.FirstName && lastName == student.LastName)
-                {
-                    return true;
-                }
-            }
-            return false;
+            return students.Exists(student => student.FirstName == firstName && student.LastName == lastName);
         }
     }
 
