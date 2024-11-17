@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6718437-33C2-4B77-B425-58C3EC898028}|07. OrderByAge\\07. OrderByAge.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclassesex\\07. orderbyage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6718437-33C2-4B77-B425-58C3EC898028}|07. OrderByAge\\07. OrderByAge.csproj|solutionrelative:07. orderbyage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C85BDC7-2A88-463E-8CB8-68472024C7AA}|06. VehicleCatalogue\\06. VehicleCatalogue.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclassesex\\06. vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C85BDC7-2A88-463E-8CB8-68472024C7AA}|06. VehicleCatalogue\\06. VehicleCatalogue.csproj|solutionrelative:06. vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AE57B3-FBE6-4ECF-8114-0B53EE3BE28E}|05. TeamworkProjects\\05. TeamworkProjects.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclassesex\\05. teamworkprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AE57B3-FBE6-4ECF-8114-0B53EE3BE28E}|05. TeamworkProjects\\05. TeamworkProjects.csproj|solutionrelative:05. teamworkprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B21A58-4DD4-41A7-9AD7-221EFB06497B}|04. Students\\04. Students.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclassesex\\04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B21A58-4DD4-41A7-9AD7-221EFB06497B}|04. Students\\04. Students.csproj|solutionrelative:04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03125098-6A1F-440B-AC71-F0E87DC2C358}|03. Articles2.0\\03. Articles2.0.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclassesex\\03. articles2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03125098-6A1F-440B-AC71-F0E87DC2C358}|03. Articles2.0\\03. Articles2.0.csproj|solutionrelative:03. articles2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EDD308-9167-4516-9EB1-567B7A6579ED}|02. Articles\\02. Articles.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclassesex\\02. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13EDD308-9167-4516-9EB1-567B7A6579ED}|02. Articles\\02. Articles.csproj|solutionrelative:02. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1812E2CD-406E-4A51-92C6-1560BC0259D8}|01. AdvertisementMessage\\01. AdvertisementMessage.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclassesex\\01. advertisementmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1812E2CD-406E-4A51-92C6-1560BC0259D8}|01. AdvertisementMessage\\01. AdvertisementMessage.csproj|solutionrelative:01. advertisementmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\07. OrderByAge\\Program.cs",
+              "RelativeDocumentMoniker": "07. OrderByAge\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\07. OrderByAge\\Program.cs",
+              "RelativeToolTip": "07. OrderByAge\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:01:16.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\06. VehicleCatalogue\\Program.cs",
+              "RelativeDocumentMoniker": "06. VehicleCatalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\06. VehicleCatalogue\\Program.cs",
+              "RelativeToolTip": "06. VehicleCatalogue\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:36:05.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\05. TeamworkProjects\\Program.cs",
+              "RelativeDocumentMoniker": "05. TeamworkProjects\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\05. TeamworkProjects\\Program.cs",
+              "RelativeToolTip": "05. TeamworkProjects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:35:49.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\04. Students\\Program.cs",
+              "RelativeDocumentMoniker": "04. Students\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\04. Students\\Program.cs",
+              "RelativeToolTip": "04. Students\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:58:31.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\03. Articles2.0\\Program.cs",
+              "RelativeDocumentMoniker": "03. Articles2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\03. Articles2.0\\Program.cs",
+              "RelativeToolTip": "03. Articles2.0\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:41:44.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\02. Articles\\Program.cs",
+              "RelativeDocumentMoniker": "02. Articles\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\02. Articles\\Program.cs",
+              "RelativeToolTip": "02. Articles\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:59:52.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\01. AdvertisementMessage\\Program.cs",
+              "RelativeDocumentMoniker": "01. AdvertisementMessage\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesEX\\01. AdvertisementMessage\\Program.cs",
+              "RelativeToolTip": "01. AdvertisementMessage\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:28:14.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

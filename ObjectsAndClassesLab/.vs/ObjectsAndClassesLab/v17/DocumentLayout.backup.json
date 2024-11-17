@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1675A67F-EB6B-49DC-95B2-E36510A39DA2}|04. Students\\04. Students.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1675A67F-EB6B-49DC-95B2-E36510A39DA2}|04. Students\\04. Students.csproj|solutionrelative:04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA786941-40D4-4419-8875-52E4AC8E5323}|05. Student2.0\\05. Student2.0.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\05. student2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA786941-40D4-4419-8875-52E4AC8E5323}|05. Student2.0\\05. Student2.0.csproj|solutionrelative:05. student2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C77AA292-934D-4E4E-A361-569BF10E6D80}|01. RandomizeWords\\01. RandomizeWords.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\01. randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C77AA292-934D-4E4E-A361-569BF10E6D80}|01. RandomizeWords\\01. RandomizeWords.csproj|solutionrelative:01. randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1675A67F-EB6B-49DC-95B2-E36510A39DA2}|04. Students\\04. Students.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1675A67F-EB6B-49DC-95B2-E36510A39DA2}|04. Students\\04. Students.csproj|solutionrelative:04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF406D93-DF6C-4A65-AFAF-730559B8E6D4}|07. VehicleCatalogue\\07. VehicleCatalogue.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\objectsandclasseslab\\07. vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,32 +70,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\05. Student2.0\\Program.cs",
               "RelativeDocumentMoniker": "05. Student2.0\\Program.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\05. Student2.0\\Program.cs",
               "RelativeToolTip": "05. Student2.0\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T15:32:01.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\04. Students\\Program.cs",
               "RelativeDocumentMoniker": "04. Students\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\04. Students\\Program.cs",
-              "RelativeToolTip": "04. Students\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAUAAAAEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\04. Students\\Program.cs*",
+              "RelativeToolTip": "04. Students\\Program.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T15:19:27.614Z"
+              "WhenOpened": "2024-10-29T15:19:27.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\03. Songs\\Program.cs",
               "RelativeDocumentMoniker": "03. Songs\\Program.cs",
@@ -119,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\ObjectsAndClassesLab\\01. RandomizeWords\\Program.cs",
               "RelativeDocumentMoniker": "01. RandomizeWords\\Program.cs",
