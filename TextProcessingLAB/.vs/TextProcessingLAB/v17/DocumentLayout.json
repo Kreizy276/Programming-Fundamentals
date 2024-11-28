@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingLAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40AA3E5D-D1FC-4454-AC93-B11656187498}|05. DigitsLettersAndOthers\\05. DigitsLettersAndOthers.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\textprocessinglab\\05. digitslettersandothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AA3E5D-D1FC-4454-AC93-B11656187498}|05. DigitsLettersAndOthers\\05. DigitsLettersAndOthers.csproj|solutionrelative:05. digitslettersandothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7F093A-5E2E-4575-B90D-173FBF360D9D}|04. TextFilter\\04. TextFilter.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\textprocessinglab\\04. textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A7F093A-5E2E-4575-B90D-173FBF360D9D}|04. TextFilter\\04. TextFilter.csproj|solutionrelative:04. textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE93B801-04ED-4DB7-9B0B-CCC467CAA94C}|03. Substring\\03. Substring.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\textprocessinglab\\03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE93B801-04ED-4DB7-9B0B-CCC467CAA94C}|03. Substring\\03. Substring.csproj|solutionrelative:03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E53D30-79CD-4AD3-8B32-AF223356E382}|02. RepeatStrings\\02. RepeatStrings.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\textprocessinglab\\02. repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E53D30-79CD-4AD3-8B32-AF223356E382}|02. RepeatStrings\\02. RepeatStrings.csproj|solutionrelative:02. repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F93F00B-D2E4-46A6-8C25-CA4B4737BC99}|01. ReverseStrings\\01. ReverseStrings.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\textprocessinglab\\01. reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F93F00B-D2E4-46A6-8C25-CA4B4737BC99}|01. ReverseStrings\\01. ReverseStrings.csproj|solutionrelative:01. reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingLAB\\05. DigitsLettersAndOthers\\Program.cs",
+              "RelativeDocumentMoniker": "05. DigitsLettersAndOthers\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingLAB\\05. DigitsLettersAndOthers\\Program.cs",
+              "RelativeToolTip": "05. DigitsLettersAndOthers\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:42:36.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingLAB\\04. TextFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04. TextFilter\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingLAB\\04. TextFilter\\Program.cs",
+              "RelativeToolTip": "04. TextFilter\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:25:45.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingLAB\\03. Substring\\Program.cs",
+              "RelativeDocumentMoniker": "03. Substring\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingLAB\\03. Substring\\Program.cs",
+              "RelativeToolTip": "03. Substring\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:01:36.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingLAB\\02. RepeatStrings\\Program.cs",
+              "RelativeDocumentMoniker": "02. RepeatStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingLAB\\02. RepeatStrings\\Program.cs",
+              "RelativeToolTip": "02. RepeatStrings\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:49:04.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingLAB\\01. ReverseStrings\\Program.cs",
+              "RelativeDocumentMoniker": "01. ReverseStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingLAB\\01. ReverseStrings\\Program.cs",
+              "RelativeToolTip": "01. ReverseStrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:25:30.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
