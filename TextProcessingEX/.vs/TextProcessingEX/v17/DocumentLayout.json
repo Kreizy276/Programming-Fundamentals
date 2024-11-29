@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{49CF32E9-26CB-44B8-A25A-4D9945AE18B4}|07. StringExplosion\\07. StringExplosion.csproj|solutionrelative:07. stringexplosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECEC0C00-5B85-4E26-99E8-1D48B89C50FF}|06. ReplaceRepeatingChars\\06. ReplaceRepeatingChars.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\textprocessingex\\06. replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECEC0C00-5B85-4E26-99E8-1D48B89C50FF}|06. ReplaceRepeatingChars\\06. ReplaceRepeatingChars.csproj|solutionrelative:06. replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{231B9D78-061C-4611-93AB-58BCFC0F8589}|05. MultiplyBigNumber\\05. MultiplyBigNumber.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\textprocessingex\\05. multiplybignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{231B9D78-061C-4611-93AB-58BCFC0F8589}|05. MultiplyBigNumber\\05. MultiplyBigNumber.csproj|solutionrelative:05. multiplybignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEC0C00-5B85-4E26-99E8-1D48B89C50FF}|06. ReplaceRepeatingChars\\06. ReplaceRepeatingChars.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\textprocessingex\\06. replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEC0C00-5B85-4E26-99E8-1D48B89C50FF}|06. ReplaceRepeatingChars\\06. ReplaceRepeatingChars.csproj|solutionrelative:06. replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A914E91-BC0C-4B50-B386-B534247FE071}|04. CaesarCipher\\04. CaesarCipher.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\textprocessingex\\04. caesarcipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,33 +52,33 @@
               "RelativeDocumentMoniker": "07. StringExplosion\\Program.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingEX\\07. StringExplosion\\Program.cs",
               "RelativeToolTip": "07. StringExplosion\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T23:19:37.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingEX\\06. ReplaceRepeatingChars\\Program.cs",
               "RelativeDocumentMoniker": "06. ReplaceRepeatingChars\\Program.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingEX\\06. ReplaceRepeatingChars\\Program.cs",
               "RelativeToolTip": "06. ReplaceRepeatingChars\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T23:19:15.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingEX\\05. MultiplyBigNumber\\Program.cs",
               "RelativeDocumentMoniker": "05. MultiplyBigNumber\\Program.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\TextProcessingEX\\05. MultiplyBigNumber\\Program.cs",
               "RelativeToolTip": "05. MultiplyBigNumber\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T23:18:49.488Z",
               "EditorCaption": ""
@@ -93,8 +93,7 @@
               "RelativeToolTip": "04. CaesarCipher\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T22:42:23.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T22:42:23.226Z"
             },
             {
               "$type": "Document",
@@ -106,7 +105,8 @@
               "RelativeToolTip": "03. ExtractFile\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T22:33:37.189Z"
+              "WhenOpened": "2024-11-28T22:33:37.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,7 +118,8 @@
               "RelativeToolTip": "02. CharacterMultiplier\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwBwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T22:09:07.723Z"
+              "WhenOpened": "2024-11-28T22:09:07.723Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
