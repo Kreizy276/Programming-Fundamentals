@@ -8,9 +8,6 @@ namespace _05._NetherRealms
     {
         static void Main(string[] args)
         {
-            string regexDamage = @"(?<number>[\+\-]?\d+(\.\d+)?)";
-            string alterDamage = @"[\*\/]+";
-
             List<Demon> demons = new();
 
             string text = Console.ReadLine();
@@ -74,7 +71,6 @@ namespace _05._NetherRealms
             return damage;
         }
     }
-
     class Demon
     {
         public string Name { get; set; }
