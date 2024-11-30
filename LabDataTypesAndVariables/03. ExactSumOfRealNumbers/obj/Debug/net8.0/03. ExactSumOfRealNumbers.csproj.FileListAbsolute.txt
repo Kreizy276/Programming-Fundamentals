@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\bin\Debug\net8.0\03. ExactSumOfRealNumbers.exe
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\bin\Debug\net8.0\03. ExactSumOfRealNumbers.deps.json
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\bin\Debug\net8.0\03. ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\bin\Debug\net8.0\03. ExactSumOfRealNumbers.dll
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\bin\Debug\net8.0\03. ExactSumOfRealNumbers.pdb
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\obj\Debug\net8.0\03. ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\obj\Debug\net8.0\03. ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\obj\Debug\net8.0\03. ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\obj\Debug\net8.0\03. ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\obj\Debug\net8.0\03. ExactSumOfRealNumbers.dll
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\obj\Debug\net8.0\refint\03. ExactSumOfRealNumbers.dll
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\obj\Debug\net8.0\03. ExactSumOfRealNumbers.pdb
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\obj\Debug\net8.0\03. ExactSumOfRealNumbers.genruntimeconfig.cache
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\03. ExactSumOfRealNumbers\obj\Debug\net8.0\ref\03. ExactSumOfRealNumbers.dll

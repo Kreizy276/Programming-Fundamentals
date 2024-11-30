@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\bin\Debug\net8.0\07. ContactNames.exe
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\bin\Debug\net8.0\07. ContactNames.deps.json
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\bin\Debug\net8.0\07. ContactNames.runtimeconfig.json
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\bin\Debug\net8.0\07. ContactNames.dll
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\bin\Debug\net8.0\07. ContactNames.pdb
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\obj\Debug\net8.0\07. ContactNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\obj\Debug\net8.0\07. ContactNames.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\obj\Debug\net8.0\07. ContactNames.AssemblyInfo.cs
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\obj\Debug\net8.0\07. ContactNames.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\obj\Debug\net8.0\07. ContactNames.dll
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\obj\Debug\net8.0\refint\07. ContactNames.dll
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\obj\Debug\net8.0\07. ContactNames.pdb
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\obj\Debug\net8.0\07. ContactNames.genruntimeconfig.cache
+C:\Users\krisb\source\repos\LabDataTypesAndVariables\07. ContactNames\obj\Debug\net8.0\ref\07. ContactNames.dll
