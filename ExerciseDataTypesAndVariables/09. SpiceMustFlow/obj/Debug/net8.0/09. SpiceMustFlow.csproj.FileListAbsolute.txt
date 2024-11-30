@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\bin\Debug\net8.0\09. SpiceMustFlow.exe
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\bin\Debug\net8.0\09. SpiceMustFlow.deps.json
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\bin\Debug\net8.0\09. SpiceMustFlow.runtimeconfig.json
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\bin\Debug\net8.0\09. SpiceMustFlow.dll
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\bin\Debug\net8.0\09. SpiceMustFlow.pdb
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\obj\Debug\net8.0\09. SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\obj\Debug\net8.0\09. SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\obj\Debug\net8.0\09. SpiceMustFlow.AssemblyInfo.cs
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\obj\Debug\net8.0\09. SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\obj\Debug\net8.0\09. SpiceMustFlow.dll
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\obj\Debug\net8.0\refint\09. SpiceMustFlow.dll
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\obj\Debug\net8.0\09. SpiceMustFlow.pdb
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\obj\Debug\net8.0\09. SpiceMustFlow.genruntimeconfig.cache
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\09. SpiceMustFlow\obj\Debug\net8.0\ref\09. SpiceMustFlow.dll

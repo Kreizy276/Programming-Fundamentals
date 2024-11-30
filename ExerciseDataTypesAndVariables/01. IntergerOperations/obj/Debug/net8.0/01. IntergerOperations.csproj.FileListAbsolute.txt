@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\bin\Debug\net8.0\01. IntergerOperations.exe
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\bin\Debug\net8.0\01. IntergerOperations.deps.json
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\bin\Debug\net8.0\01. IntergerOperations.runtimeconfig.json
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\bin\Debug\net8.0\01. IntergerOperations.dll
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\bin\Debug\net8.0\01. IntergerOperations.pdb
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\obj\Debug\net8.0\01. IntergerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\obj\Debug\net8.0\01. IntergerOperations.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\obj\Debug\net8.0\01. IntergerOperations.AssemblyInfo.cs
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\obj\Debug\net8.0\01. IntergerOperations.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\obj\Debug\net8.0\01. IntergerOperations.dll
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\obj\Debug\net8.0\refint\01. IntergerOperations.dll
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\obj\Debug\net8.0\01. IntergerOperations.pdb
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\obj\Debug\net8.0\01. IntergerOperations.genruntimeconfig.cache
+C:\Users\krisb\source\repos\ExerciseDataTypesAndVariables\01. IntergerOperations\obj\Debug\net8.0\ref\01. IntergerOperations.dll
