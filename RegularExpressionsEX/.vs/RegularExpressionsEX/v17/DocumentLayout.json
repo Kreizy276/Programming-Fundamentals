@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +40,10 @@
               "RelativeDocumentMoniker": "05. NetherRealms\\Program.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\05. NetherRealms\\Program.cs",
               "RelativeToolTip": "05. NetherRealms\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T21:14:30.789Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -55,8 +55,7 @@
               "RelativeToolTip": "03. SoftUniBarIncome\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:09:05.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:09:05.986Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "02. Race\\Program.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAgwDMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T19:17:37.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T19:17:37.675Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "01. Furniture\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T18:29:23.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T18:29:23.354Z"
             }
           ]
         }

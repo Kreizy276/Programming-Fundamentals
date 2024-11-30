@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C845345-DE71-4AA6-A6BF-3E757C5A42E7}|05. NetherRealms\\05. NetherRealms.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\regularexpressionsex\\05. netherrealms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C845345-DE71-4AA6-A6BF-3E757C5A42E7}|05. NetherRealms\\05. NetherRealms.csproj|solutionrelative:05. netherrealms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04807F1F-6B80-43D4-AD61-CFE207A9D3A7}|02. Race\\02. Race.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\regularexpressionsex\\02. race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04807F1F-6B80-43D4-AD61-CFE207A9D3A7}|02. Race\\02. Race.csproj|solutionrelative:02. race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E76A268-8D8B-4961-BCD8-CF6592C7FE2E}|03. SoftUniBarIncome\\03. SoftUniBarIncome.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\regularexpressionsex\\03. softunibarincome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E76A268-8D8B-4961-BCD8-CF6592C7FE2E}|03. SoftUniBarIncome\\03. SoftUniBarIncome.csproj|solutionrelative:03. softunibarincome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F105FCF0-703F-4F71-8FD1-8B2D22EDA0A8}|01. Furniture\\01. Furniture.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\regularexpressionsex\\01. furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F105FCF0-703F-4F71-8FD1-8B2D22EDA0A8}|01. Furniture\\01. Furniture.csproj|solutionrelative:01. furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04807F1F-6B80-43D4-AD61-CFE207A9D3A7}|02. Race\\02. Race.csproj|c:\\users\\krisb\\desktop\\exercises\\programming fundamentals\\programming-fundamentals\\regularexpressionsex\\02. race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04807F1F-6B80-43D4-AD61-CFE207A9D3A7}|02. Race\\02. Race.csproj|solutionrelative:02. race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,31 +36,42 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\03. SoftUniBarIncome\\Program.cs",
-              "RelativeDocumentMoniker": "03. SoftUniBarIncome\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\03. SoftUniBarIncome\\Program.cs",
-              "RelativeToolTip": "03. SoftUniBarIncome\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\05. NetherRealms\\Program.cs",
+              "RelativeDocumentMoniker": "05. NetherRealms\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\05. NetherRealms\\Program.cs",
+              "RelativeToolTip": "05. NetherRealms\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:09:05.986Z",
+              "WhenOpened": "2024-11-30T21:14:30.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\02. Race\\Program.cs",
-              "RelativeDocumentMoniker": "02. Race\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\02. Race\\Program.cs",
-              "RelativeToolTip": "02. Race\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAkwCUAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\03. SoftUniBarIncome\\Program.cs",
+              "RelativeDocumentMoniker": "03. SoftUniBarIncome\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\03. SoftUniBarIncome\\Program.cs",
+              "RelativeToolTip": "03. SoftUniBarIncome\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T19:17:37.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:09:05.986Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\02. Race\\Program.cs",
+              "RelativeDocumentMoniker": "02. Race\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\02. Race\\Program.cs",
+              "RelativeToolTip": "02. Race\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:17:37.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\Programming Fundamentals\\Programming-Fundamentals\\RegularExpressionsEX\\01. Furniture\\Program.cs",
               "RelativeDocumentMoniker": "01. Furniture\\Program.cs",
@@ -64,8 +79,7 @@
               "RelativeToolTip": "01. Furniture\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T18:29:23.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T18:29:23.354Z"
             }
           ]
         }

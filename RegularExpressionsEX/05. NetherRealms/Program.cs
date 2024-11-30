@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.RegularExpressions;
 
 namespace _05._NetherRealms
 {
@@ -7,36 +8,69 @@ namespace _05._NetherRealms
     {
         static void Main(string[] args)
         {
-            string regexName = @"[A-Za-z]+";
-            string regexDamage = @"(?<number>\d+(\.\d+)?)";
+            string regexDamage = @"(?<number>[\+\-]?\d+(\.\d+)?)";
+            string alterDamage = @"[\*\/]+";
 
             List<Demon> demons = new();
 
             string text = Console.ReadLine();
             string[] demonNames = text.Split(new[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
-            foreach(string demon in demonNames)
+            foreach(string demonName in demonNames)
             {
                 Demon newDemon = new()
                 {
-                    Name = demon,
-                    Health = GetHealth(),
-                    Damage = GetDamage(),
+                    Name = demonName,
+                    Health = GetHealth(demonName),
+                    Damage = GetDamage(demonName),
                 };
 
                 demons.Add(newDemon);
             }
+
+            demons.Sort((a,b) =>  a.Name.CompareTo(b.Name));
+
+            foreach(Demon demon in demons)
+            {
+                Console.WriteLine($"{demon.Name} - {demon.Health} health, {demon.Damage:f2} damage");
+            }
         }
 
-        private static int GetHealth()
+        private static int GetHealth(string demonName)
         {
+            string regexName = @"[^0-9+\-*/.]";
+
             int health = 0;
+            foreach (Match match in Regex.Matches(demonName, regexName))
+            {
+                char charConv = char.Parse(match.Value);
+                health += charConv;
+            }
             return health;
         }
 
-        private static int GetDamage()
+        private static decimal GetDamage(string demonName)
         {
-            int damage = 0;
+            string regexDamage = @"([\+\-]?\d+(\.\d+)?)";
+            string alterDamage = @"[\*\/]";
+
+            decimal damage = 0;
+            foreach (Match match in Regex.Matches(demonName, regexDamage))
+            {
+                damage += decimal.Parse(match.Value);
+            }
+
+            foreach(Match match in Regex.Matches(demonName, alterDamage))
+            {
+                if(match.Value == "*")
+                {
+                    damage *= 2;
+                }
+                else if(match.Value == "/")
+                {
+                    damage /= 2;
+                }
+            }
             return damage;
         }
     }
@@ -45,6 +79,6 @@ namespace _05._NetherRealms
     {
         public string Name { get; set; }
         public int Health { get; set; }
-        public int Damage { get; set; }
+        public decimal Damage { get; set; }
     }
 }
