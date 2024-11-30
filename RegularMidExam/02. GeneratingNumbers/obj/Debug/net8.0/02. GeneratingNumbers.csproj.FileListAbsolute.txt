@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\obj\Debug\net8.0\02. GeneratingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\obj\Debug\net8.0\02. GeneratingNumbers.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\obj\Debug\net8.0\02. GeneratingNumbers.AssemblyInfo.cs
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\obj\Debug\net8.0\02. GeneratingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\bin\Debug\net8.0\02. GeneratingNumbers.exe
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\bin\Debug\net8.0\02. GeneratingNumbers.deps.json
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\bin\Debug\net8.0\02. GeneratingNumbers.runtimeconfig.json
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\bin\Debug\net8.0\02. GeneratingNumbers.dll
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\bin\Debug\net8.0\02. GeneratingNumbers.pdb
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\obj\Debug\net8.0\02. GeneratingNumbers.dll
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\obj\Debug\net8.0\refint\02. GeneratingNumbers.dll
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\obj\Debug\net8.0\02. GeneratingNumbers.pdb
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\obj\Debug\net8.0\02. GeneratingNumbers.genruntimeconfig.cache
+C:\Users\krisb\source\repos\RegularMidExam\02. GeneratingNumbers\obj\Debug\net8.0\ref\02. GeneratingNumbers.dll

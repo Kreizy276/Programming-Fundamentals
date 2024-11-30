@@ -1,0 +1,14 @@
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\bin\Debug\net8.0\03. GroceryShopping.exe
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\bin\Debug\net8.0\03. GroceryShopping.deps.json
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\bin\Debug\net8.0\03. GroceryShopping.runtimeconfig.json
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\bin\Debug\net8.0\03. GroceryShopping.dll
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\bin\Debug\net8.0\03. GroceryShopping.pdb
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\obj\Debug\net8.0\03. GroceryShopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\obj\Debug\net8.0\03. GroceryShopping.AssemblyInfoInputs.cache
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\obj\Debug\net8.0\03. GroceryShopping.AssemblyInfo.cs
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\obj\Debug\net8.0\03. GroceryShopping.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\obj\Debug\net8.0\03. GroceryShopping.dll
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\obj\Debug\net8.0\refint\03. GroceryShopping.dll
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\obj\Debug\net8.0\03. GroceryShopping.pdb
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\obj\Debug\net8.0\03. GroceryShopping.genruntimeconfig.cache
+C:\Users\krisb\source\repos\RegularMidExam\03. GroceryShopping\obj\Debug\net8.0\ref\03. GroceryShopping.dll
